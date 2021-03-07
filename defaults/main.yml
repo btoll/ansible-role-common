@@ -1,0 +1,24 @@
+---
+packages:
+  common:
+    - ansible
+    - build-essential
+    - cowsay
+    - curl
+    - fortune
+    - git
+    - haveged
+    - i3
+    - konsole
+    - libreoffice
+    - python3-pip
+    - python3.8
+    - shellcheck
+    - silversearcher-ag
+    - stow
+    - tree
+    - vagrant
+    - vim
+    - virtualenvwrapper
+    - xsel
+
