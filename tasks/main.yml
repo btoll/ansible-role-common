@@ -3,7 +3,7 @@
   apt:
     update_cache: yes
     cache_valid_time: 21600 # 6 hours.
-    pkg: "{{ packages['common'] }}"
+    pkg: "{{ packages }}"
     state: present
   become: true
 
