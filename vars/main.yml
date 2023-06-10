@@ -2,22 +2,15 @@
 packages:
   - ansible
   - build-essential
-  - cowsay
-  - curl
-  - fortune
   - git
   - haveged
-  - i3
   - konsole
   - libreoffice
   - python3-pip
   - python3.9
   - shellcheck
-  - silversearcher-ag
-  - stow
   - tree
   - vagrant
   - vim
   - virtualenvwrapper
-  - xsel
 
