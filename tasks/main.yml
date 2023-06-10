@@ -15,12 +15,7 @@
 
     git clone https://github.com/btoll/dotfiles
     cd dotfiles
-    stow -t $HOME bash gdb git gnupg templates vim xinit
-    mkdir -p $HOME/.config/i3
-    stow -t $HOME/.config/i3 i3
-
-    git clone --depth 1 https://github.com/junegunn/fzf.git $HOME/.fzf
-    echo "\n" | $HOME/.fzf/install
+    #    bash install.sh
   become: true
   become_user: vagrant
 
