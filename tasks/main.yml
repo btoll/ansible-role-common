@@ -15,7 +15,7 @@
 
     git clone https://github.com/btoll/dotfiles
     cd dotfiles
-    #    bash install.sh
+    bash install.sh
   become: true
   become_user: vagrant
 
