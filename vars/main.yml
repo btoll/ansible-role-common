@@ -2,9 +2,10 @@
 packages:
   - ansible
   - build-essential
+  - curl
   - git
+  - gnupg2
   - haveged
-  - konsole
   - libreoffice
   - python3-pip
   - python3.9
@@ -13,4 +14,6 @@ packages:
   - vagrant
   - vim
   - virtualenvwrapper
+  - wget
+go_version: 1.21.3
 
