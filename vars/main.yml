@@ -8,7 +8,7 @@ packages:
   - haveged
   - libreoffice
   - python3-pip
-  - python3.9
+  - python3
   - shellcheck
   - tree
   - vagrant
